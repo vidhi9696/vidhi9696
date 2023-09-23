@@ -1,8 +1,8 @@
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi9696&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi9696" /> </p>
 <h1 align="center">Hi 👋, I'm Vidhi Gupta</h1>
-<h3 align="center">A Passionate Computer Science Student From, India</h3>
+<h2 align="center">A Passionate Computer Science Student From, India</h2>
 📌 View My Portfolio to konw more about me - [Portfolio](https://vidhi9696.github.io/)
 
 - 🔭View my project -  [Netflix Clone](netflix-clone-845c0.web.app)
