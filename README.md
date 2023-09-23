@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi9696&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi9696" /> </p>
 
-- View My Portfolio [My Portfolio](https://vidhi9696.github.io/)
+- 📌 View My Portfolio [My Portfolio](https://vidhi9696.github.io/)
 
 - My Recent work on [Netflix Clone](netflix-clone-845c0.web.app) 
 
