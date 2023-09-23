@@ -7,9 +7,9 @@
 
 - 🔭 My Recent work on [Netflix Clone](netflix-clone-845c0.web.app) 
 
-- View My 100DaysofCodeChallenge [100Days DSA](https://github.com/vidhi9696/100Dayscodechallenge-)
+- 📍 View My 100DaysofCodeChallenge [100Days DSA] (https://github.com/vidhi9696/100Dayscodechallenge-)
 
-- 💬 I'm Currently Learning **React, MERN**
+- 🌱 I'm Currently Learning **React, MERN**
 
 - 📫 How to reach me **vgupta969696@gmail.com**
 
