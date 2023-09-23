@@ -2,7 +2,7 @@
 <h3 align="center" color ="black">A Passionate Computer Science Student From, India.<br> Currently pursuing MCA from VIT University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi9696&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi9696" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdresma.ai%2Fjobs%2Fsenior-software-engineer-platform%2F&psig=AOvVaw1RgfkYt1K7vEsTA8DO2DyE&ust=1695549876878000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjMgdi9wIEDFQAAAAAdAAAAABA2">
 
 - 📌 View My Portfolio [My Portfolio](https://vidhi9696.github.io/)
 
