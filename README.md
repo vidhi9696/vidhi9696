@@ -1,5 +1,3 @@
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi9696&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi9696" /> </p>
 <h1 align="center">Hi 👋, I'm Vidhi Gupta</h1>
 <h2 align="center">A Passionate Computer Science Student From, India</h2>
@@ -8,8 +6,6 @@
 - 🔭View my project -  [Netflix Clone](netflix-clone-845c0.web.app)
 
 - 📍 View My 100DaysofCodeChallenge [100Days](https://github.com/vidhi9696/100Dayscodechallenge-)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi9696&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi9696" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhi9696" alt="vidhi9696" /></a> </p>
 
