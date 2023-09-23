@@ -1,5 +1,5 @@
-<h1 align="center">Hi Everyone👋,I'm Vidhi Gupta</h1>
-<h3 align="center">A Passionate Computer Science Student From, India. Currently pursuing MCA from VIT University</h3>
+<h1 align="center" color ="black">Hi Everyone👋,I'm Vidhi Gupta</h1>
+<h3 align="center" color ="black">A Passionate Computer Science Student From, India.<br> Currently pursuing MCA from VIT University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi9696&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi9696" /> </p>
 
