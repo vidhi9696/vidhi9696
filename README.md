@@ -5,9 +5,9 @@
 
 - 📌 View My Portfolio [My Portfolio](https://vidhi9696.github.io/)
 
-- 🔭 My Recent work on [Netflix Clone](netflix-clone-845c0.web.app) 
+- 🔭 My Recent work on [Netflix Clone](https://github.com/vidhi9696/100Dayscodechallenge-) 
 
-- 📍 View My 100DaysofCodeChallenge [100Days DSA] (https://github.com/vidhi9696/100Dayscodechallenge-)
+- 📍 View My 100DaysofCodeChallenge [100Days DSA](https://github.com/vidhi9696/100Dayscodechallenge-)
 
 - 🌱 I'm Currently Learning **React, MERN**
 
@@ -28,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhi9696&show_icons=true&locale=en" alt="vidhi9696" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhi9696&" alt="vidhi9696" /></p>
+
 
