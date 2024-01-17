@@ -5,13 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/vidhi9696/vidhi9696/assets/114758784/67350e57-9325-4488-9f3b-2a85595444cf">
 
 - 📌 View My Portfolio [My Portfolio](https://vidhi9696.github.io/)
-
 - 🔭 My Recent work on [Netflix Clone](https://github.com/vidhi9696/netflix-clone) 
-
 - 📍 View My 100DaysofCodeChallenge [100Days DSA](https://github.com/vidhi9696/100Dayscodechallenge-)
-
 - 🌱 I'm Currently Learning **React, MERN**,
-
 - 📫 How to reach me **vgupta969696@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
