@@ -1,5 +1,5 @@
 <h1 align="center" color ="black">Hi Everyone👋,I'm Vidhi Gupta</h1>
-<h3 align="center" color ="black">A Passionate Computer Science Student From, India.<br> Currently pursuing MCA from VIT University</h3>
+<h3 align="center" color ="black">A Software Developer From, India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi9696&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi9696" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/vidhi9696/vidhi9696/assets/114758784/67350e57-9325-4488-9f3b-2a85595444cf">
@@ -10,7 +10,7 @@
 
 - 📍 View My 100DaysofCodeChallenge [100Days DSA](https://github.com/vidhi9696/100Dayscodechallenge-)
 
-- 🌱 I'm Currently Learning **React, MERN**
+- 🌱 I'm Currently Learning **React, MERN**,
 
 - 📫 How to reach me **vgupta969696@gmail.com**
 
