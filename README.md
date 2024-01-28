@@ -12,7 +12,7 @@
 
 -🌱I'm Currently Learning **React, MERN**
 
--📫How to reach me**vgupta969696@gmail.com**
+-📫How to reach me **vgupta969696@gmail.com**
                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
