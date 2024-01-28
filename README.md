@@ -2,7 +2,10 @@
 <h3 align="center" color ="black">Software Developer From, India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi9696&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi9696" /> </p>
+<br>
+
 <img align="right" alt="Coding" width="200" src="https://github.com/vidhi9696/vidhi9696/assets/114758784/67350e57-9325-4488-9f3b-2a85595444cf">
+
 
 -📌View My Portfolio[My Portfolio](https://vidhi9696.github.io/)
 
