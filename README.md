@@ -1,21 +1,20 @@
 <h1 align="center" color ="black">Hi Everyone👋,I'm Vidhi Gupta</h1>
-<h3 align="center" color ="black">Software Developer From, India.
+<h3 align="center" color ="black">A Software Developer From, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi9696&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi9696" /> </p>
-<br>
 
 <img align="right" alt="Coding" width="200" src="https://github.com/vidhi9696/vidhi9696/assets/114758784/67350e57-9325-4488-9f3b-2a85595444cf">
 
 
--📌View My Portfolio[My Portfolio](https://vidhi9696.github.io/)
+- 📌View My Portfolio [My Portfolio](https://vidhi9696.github.io/)
 
--🔭My Recent work on[Netflix Clone](https://github.com/vidhi9696/netflix-clone)
+- 🔭My Recent work on [Netflix Clone](https://github.com/vidhi9696/netflix-clone)
 
--📍View My 100DaysofCodeChallenge [100Days DSA](https://github.com/vidhi9696/100Dayscodechallenge-)
+- 📍View My 100DaysofCodeChallenge [100Days DSA](https://github.com/vidhi9696/100Dayscodechallenge-)
 
--🌱I'm Currently Learning **React, MERN**
+- 🌱I'm Currently Learning **React, MERN**
 
--📫How to reach me **vgupta969696@gmail.com**
+- 📫How to reach me *vgupta969696@gmail.com*
                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
